@@ -26,7 +26,7 @@ NOTE: The databases created for this were made for specific dates these tutorial
 <br> 
 
 ## Full Day Tutorial: Using ColdFront  
-<details>  
+<details markdown="1">  
 
 If interested, you can [view the steps taken](#seeding-the-database-for-the-full-day-tutorial) to pre-seed the database for the extended version of the tutorial.
 
@@ -298,7 +298,7 @@ That wraps up the full day tutorial but there is a lot more you can do with Cold
 
 
 ## Half Day Tutorial: Using ColdFront  
-<details>
+<details markdown="1">
 If interested, you can [view the steps taken](#seeding-the-database-for-the-half-day-tutorial) to pre-seed the database for this condensed version of the tutorial.  
 
 Before beginning the tutorial, you must stop the containers, copy in the correct database, and then restart the containers.  Follow these steps:  
@@ -419,7 +419,7 @@ Tip:  You can also view information about this job in OnDemand, even though you 
 The information in this section can be used for reference or to go through the tutorial pre-seeding steps and see how all the set up was done to get the database in the state we needed it for the half day and full day tutorials or to start from scratch.    
 
 ## Seeding the Database for the Full Day Tutorial 
-<details>
+<details markdown="1">
 These steps were done in advance to allow for the presentation of a more hands-on tutorial which spends time on learning the features rather than the minutia of the set up.  If you would like to go through these steps yourself, destroy the containers, delete the ColdFront database, and start the containers.  This will create a new, empty ColdFront database.  Then you'll be able to log in to ColdFront and follow these steps to populate the database.  
 
 ```
@@ -526,7 +526,7 @@ NOTE: If there is a project you never want project reviews on, uncheck 'Requires
 <br>
 
 ## Starting from Scratch (Half Day Tutorial)
-<details>
+<details markdown="1">
 These steps were done in advance to allow for the presentation of a condensed half day version of the tutorial.  If you would like to go through these steps yourself, destroy the containers, and delete the ColdFront database. Start the containers which will create a new, empty coldfront database.  Then log in to ColdFront and follow the steps below:
 
 ```
